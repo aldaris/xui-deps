@@ -47,3 +47,5 @@ mvn install:install-file -DgroupId=org.forgerock.commons.ui.libs -DartifactId=bo
 mvn install:install-file -DgroupId=org.forgerock.commons.ui.libs -DartifactId=squire -Dversion=0.2.0 -Dpackaging=js -Dfile=js/squire-0.2.0.js
 mvn install:install-file -DgroupId=org.forgerock.commons.ui.libs -DartifactId=bootstrap-datetimepicker -Dversion=4.14.30 -Dclassifier=min -Dpackaging=css -Dfile=css/bootstrap-datetimepicker-4.14.30-min.css
 mvn install:install-file -DgroupId=org.forgerock.commons.ui.libs -DartifactId=bootstrap-clockpicker -Dversion=0.0.7 -Dclassifier=min -Dpackaging=css -Dfile=css/bootstrap-clockpicker-0.0.7-min.css
+mvn install:install-file -DgroupId=org.forgerock.commons.ui.libs -DartifactId=dragula -Dversion=3.6.7 -Dclassifier=min -Dpackaging=js -Dfile=js/dragula-3.6.7-min.js
+mvn install:install-file -DgroupId=org.forgerock.commons.ui.libs -DartifactId=dragula -Dversion=3.6.7 -Dclassifier=min -Dpackaging=css -Dfile=css/dragula-3.6.7-min.css
